@@ -1,0 +1,12 @@
+{
+    "titles": {
+        "create_conference": "Kurti konferenciją",
+        "edit_conference": "Redaguoti konferenciją"
+    },
+    "labels": {
+        "title": "Pavadinimas",
+        "description": "Aprašymas",
+        "date": "Data",
+        "time": "Laikas"
+    }
+}
